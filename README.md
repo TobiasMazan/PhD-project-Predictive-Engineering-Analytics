@@ -1,4 +1,4 @@
-# Predictive-maintenance-project-(PhD)
+# Predictive maintenance project (PhD)
 
 __1. Project overview__
 
