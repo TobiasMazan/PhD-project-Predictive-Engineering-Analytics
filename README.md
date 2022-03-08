@@ -2,8 +2,9 @@
 
 __1. Project overview__
 
-Predictive model for chemical degradation of petroleum upstream flexible pipe was developed for several end-use properties/morphological parameters and implemented in MATLAB. Proposed kinetic-topological ML approach proved successful showing that developed methodology can indeed provide faster, cheaper, more accurate and less labor intensive alternative to traditional extrapolation methods. This new analytic tool reduced testing time from months to seconds, achieved a very high prediction accuracy- Mean Absolute
-Percentage Error (MAPE) =3.6% and strong robustness to performance drift. 
+Due to its good mechanical and barier properties Polyamide 11 is commonly used as a material for petroleum  upstream flexible pipes, however it is also known to undergo chemical degradation once exposed to oil field exploration environments. Standard way to evaluate long term pipeline performance is based on extrapolation of short-term experimental data in expected environment to operative times up to 50 years without consideration of actual mechanisms behind a degradation process. This leads to labour and resource intensive prediction method that is applicable only to a specific system tested and often produces inaccurate results increasing maintenance costs and ecological hazards.   
+
+The objective of this project has been to create predictive maintenance model for chemical degradation of petroleum upstream flexible pipe which would provide faster, cheaper, more accurate and less labor intensive alternative to traditional extrapolation methods. Proposed kinetic-topological ML approach proved successful. This new analytic tool reduced testing time from months to seconds, achieved a very high prediction accuracy- Mean Absolute Percentage Error (MAPE) =3.6% and strong robustness to performance drift. Solution utilized partial differential equations, multiple linear regression and software packages (MS Excel, MATLAB).   
 
 __Resources__
 
