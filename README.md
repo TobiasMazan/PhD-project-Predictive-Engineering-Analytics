@@ -12,4 +12,4 @@ _This new analytic tool proved successful and applicable to many systems. It red
 
 __Resources__
 
-Full project documentation: https://github.com/TobiasMazan/Predictive-maintenance-project/blob/main/Project%20documentation.pdf
+Research project documentation and software solution (beta): https://drive.google.com/drive/folders/19ir0MsVTzeOSBT72U9-GiQl5ilLF0YR6?usp=sharing
