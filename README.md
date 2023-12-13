@@ -1,4 +1,4 @@
-# Predictive maintenance project (PhD)
+# PhD project: Predictive Engineering Analytics
 
 __1. Project overview__
 
