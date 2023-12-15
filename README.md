@@ -12,4 +12,4 @@ _This new predictive tool proved successful and applicable to many systems. It r
 
 __Resources__
 
-Research project documentation and software solution (beta): https://drive.google.com/drive/folders/19ir0MsVTzeOSBT72U9-GiQl5ilLF0YR6?usp=sharing
+Research project documentation: https://drive.google.com/drive/folders/1B4p5cp2HabCBZEtFwWQBBLPYLrl6KTA5?usp=drive_link
